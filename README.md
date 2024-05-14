@@ -1,6 +1,8 @@
+# Host Payara
+## Introductory Algebra
 <!DOCTYPE html>
-<html><head><script type="text/javascript" src="README_files/___vscode_livepreview_injected_script.es"></script>
-        <title>Host Payara</title>
+<html><head>
+        
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     </head>
     <body>
